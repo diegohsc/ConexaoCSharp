@@ -1,0 +1,11 @@
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.csproj.AssemblyReference.cache
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.Form1.resources
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.Properties.Resources.resources
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.csproj.GenerateResource.cache
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.csproj.CoreCompileInputs.cache
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\bin\Debug\ConexaoNativa.exe.config
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\bin\Debug\ConexaoNativa.exe
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\bin\Debug\ConexaoNativa.pdb
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.exe
+C:\Users\diego.carvalho\Documents\EstudoCSharp\conexaoNativa\ConexaoNativa\ConexaoNativa\obj\Debug\ConexaoNativa.pdb
